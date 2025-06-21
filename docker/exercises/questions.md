@@ -72,7 +72,7 @@ ORDER BY product_price DESC
 ;
 ```
 
-8. Who are the top 5 users by number of orders?
+8. Who are the top 3 users by number of orders?
 
 ```sql
 SELECT 
