@@ -25,5 +25,5 @@ This helps me reinforce the topics, explore MySQL syntax, and have a playground 
 Feel free to clone the repo, run the queries, and practice yourself!
 
 ```bash
-git clone https://github.com/your-username/mysql-essentials-practice.git
+git clone https://github.com/Yaelwil/mysql_course_labs.git
 ```
